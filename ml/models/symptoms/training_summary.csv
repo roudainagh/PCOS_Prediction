@@ -1,0 +1,4 @@
+Model,Accuracy,F1 Macro,F1 Weighted,ROC-AUC
+Random Forest,0.854,0.8325,0.8581,0.975
+XGBoost,0.8394,0.8137,0.8435,0.9654
+Logistic Regression,0.8248,0.7939,0.8288,0.9514
