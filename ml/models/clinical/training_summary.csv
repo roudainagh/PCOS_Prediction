@@ -1,0 +1,4 @@
+Model,Accuracy,F1 (PCOS),F1 Macro,ROC-AUC
+XGBoost,0.5638,0.481,0.5524,0.5659
+Random Forest,0.5,0.3562,0.4737,0.5101
+Logistic Regression,0.3617,0.3617,0.3617,0.3443
